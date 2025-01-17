@@ -13,3 +13,9 @@ p{
     font-size: 14px;
     font-family: 'Courier New', Courier, monospace;
 }
+
+ul{
+    background-color: blue;
+    border-radius: 10px;
+    border: 1px solid black;
+}
